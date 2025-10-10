@@ -1,4 +1,4 @@
-# Arquivo para aprender a realizar cálculos com Python
+    # Arquivo para aprender a realizar cálculos com Python
 
 # Sinais matemáticos:
 # + Soma                Serve pra somar valores
