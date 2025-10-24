@@ -7,4 +7,4 @@ tempo_segundos = tamanho_megabites / velocidade_internet
 
 tempo_minutos = tempo_segundos / 60
 
-print(f"O tempo aproximado de download é de {tempo_minutos:.2f} minutos.")
+print("O tempo aproximado de download é de minutos.",tempo_minutos)
